@@ -1,3 +1,6 @@
+Don't care of the context, just want to learn => [Get Started](https://github.com/EloiStree/LearnCodeByFightingBotsWithBotsInWow/tree/main/GetStarted)
+
+-------------
 
 
 # Learn to Code by Fighting Bots with Bots in WoW
@@ -42,6 +45,15 @@ My goal, as you can probably tell, is to create junior QA developer jobs through
 
 ---
 
+## For free ?
+
+My income comes from teaching across Belgium and from donations.
+In the future, I plan to organize online coding eSports tournaments as living.
+All of my code is open source and released under the Beerware license.
+So if you'd like to support me and my work, feel free to send me a beer every now and then on APInt.IO !
+[https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)
+
+
 ## Side Effects of Bot Software
 
 ### 🧰 Hardware Accessibility: “No Hands”
@@ -52,8 +64,6 @@ I’ll be crafting some guides on how to use arcade buttons, Raspberry Pi, and E
 **Your mission:**
 Contact a local organization that supports people with disabilities.
 Invite them into the *World of Warcraft* by running through this workshop together.
-
----
 
 ### 🎮 Blind Gaming
 
