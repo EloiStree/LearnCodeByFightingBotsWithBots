@@ -1,5 +1,5 @@
+<img width="333" height="400" alt="image" src="https://github.com/user-attachments/assets/c6b30195-2457-4599-94e2-29b75600ab08" />
 
-Let's go.
 
 In honor of this workshop, first think I need to teach, remind, ...
 
