@@ -3,33 +3,33 @@ Let's go.
 
 In honor of this workshop, first think I need to teach, remind, ...
 
-# Report bots
-## How to report bots in game
+## Report bots
+### How to report bots in game
 
 - To Setup
 - 
-## How to record the last 2 minutes of your screen
+### How to record the last 2 minutes of your screen
 
 - To Setup
 - 
-## How to display the unique id of a player
+### How to display the unique id of a player
 
-### Using Weak Aura
-
-- To Setup
-
-### creating your Addon tool
+#### Using Weak Aura
 
 - To Setup
 
-# Install the game
+#### creating your Addon tool
+
+- To Setup
+
+## Install the game
 
 Download the game: https://download.battle.net/en-us?product=bnetdesk
 
 
-# Curse Forge
+## Curse Forge
 
-## Addons you need
+### Addons you need
 
 - Console Port : https://www.curseforge.com/wow/addons/console-port
   - To learn simulation of Xbox Controller
@@ -41,11 +41,32 @@ Download the game: https://download.battle.net/en-us?product=bnetdesk
 - Auctionator https://www.curseforge.com/wow/addons/auctionator
 
 
-# Razer
+## Razer
+
+https://www.google.com/search?q=razer+nostromo+razer
+
+## Auto Hot Key
+
+https://www.autohotkey.com
+
+
+## PyAutoGUI
 
 - To Setup
 
-# PyAutoGUI
+## Hardware
+
+### Arduino
 
 - To Setup
+  
+### Raspberry Pi Pico
+
+- To Setup
+  
+### ESP32
+
+- To Setup
+
+
 
