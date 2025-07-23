@@ -77,7 +77,6 @@ Find a visually impaired gamer and help them play *World of Warcraft*.
 _Contact me if you're up for this challenge._
 
 
-Here's a rephrased and corrected version for clarity and natural English:
 
 ### 👓 XR Quest 3
 
@@ -86,6 +85,15 @@ Now that we have access to the Quest 3’s camera, we can explore the possibilit
 
 **Your mission:**
 Test the potential of playing **World of Warcraft** in front of your TV using the Quest 3.
+
+
+### 🤖 AI in game
+
+Would really love to see how an AI would behave on a private server with Wow classic.
+If you are learning in university how to create AI and want to experiment the concept.
+Feel free to contact me. 
+
+(_Something that could be fun and useful, is to create an ChatBot that can talk with the people botting. In aim for them to expose in chat that they are botting and information about them that could be useful for the Game Master._)
 
 
 
