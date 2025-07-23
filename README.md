@@ -10,7 +10,7 @@ Don't care of the context, just want to learn => [Get Started](https://github.co
 I’m a teacher who really loves coding.  
 Coding bots is fun 😁!  
 
-But like everyone else… I **f**\*ing hate\*\* bots *in-game* 🤬.  
+But like everyone else… I **fking hate** bots *in-game* 🤬.  
 I've spent hours killing them and reporting them.  
 
 So... I'm going to teach you how to code bots.  
