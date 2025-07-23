@@ -83,4 +83,3 @@ Test the potential of playing **World of Warcraft** in front of your TV using th
 
 **May the code be with you.**
 
-![image](https://github.com/user-attachments/assets/67e51c09-ebb7-4f53-86ec-e7a7af8b412d)
