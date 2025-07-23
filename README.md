@@ -43,6 +43,8 @@ By the end of the workshop, you will be able to:
 
 My goal, as you can probably tell, is to create junior QA developer jobs through a fun exercise that also helps the community.
 
+(Note: If you extend this exercise to store a database of the bots and create a website to collect them, you can learn all the skills a junior developer needs in their career.)
+
 ---
 
 ## For free ?
