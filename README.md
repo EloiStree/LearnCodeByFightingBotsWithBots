@@ -2,6 +2,7 @@ Don't care of the context, just want to learn => [Get Started](https://github.co
 
 -------------
 
+<img width="1120" height="607" alt="image" src="https://github.com/user-attachments/assets/c49cc56b-6c28-4254-9d11-7929152a22fe" />
 
 # Learn to Code by Fighting Bots with Bots in WoW
 
