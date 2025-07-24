@@ -99,6 +99,11 @@ Feel free to contact me.
 
 
 
+### Sus-Points
+
+You can find here notes I write when I think about an anti-bot idea while creating them:
+[<img width="703" height="227" alt="image" src="https://github.com/user-attachments/assets/fd476953-ae71-4c22-b9a0-01323782aa43" />](https://github.com/EloiStree/HelloWarcraftQAXR/issues?q=Anti-Bot%3A)  
+[Anti-Bot: ...](https://github.com/EloiStree/HelloWarcraftQAXR/issues?q=Anti-Bot%3A)   
 
 ---
 
