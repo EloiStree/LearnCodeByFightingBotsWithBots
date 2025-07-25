@@ -88,7 +88,7 @@ Now that we have access to the Quest 3’s camera, we can explore the possibilit
 Test the potential of playing **World of Warcraft** in front of your TV using the Quest 3.
 
 
-### 🤖 QA testing Company
+### 🔬 QA testing Company
 
 You are a quality assurence company and you are reading this page.
 Contact me 😊.
