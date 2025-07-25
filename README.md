@@ -88,6 +88,16 @@ Now that we have access to the Quest 3’s camera, we can explore the possibilit
 Test the potential of playing **World of Warcraft** in front of your TV using the Quest 3.
 
 
+### 🤖 QA testing Company
+
+You are a quality assurence company and you are reading this page.
+Contact me 😊.
+I am going to teach QA testing by using code in game by 2026:
+- I would be happy to redirect young developer to you for internship.
+- I would love talk about what you need as automated tools.
+- I would love to see if we can create the ultimate Quest3 QA testing hub.
+
+
 ### 🤖 AI in game
 
 Would really love to see how an AI would behave on a private server with Wow classic.
