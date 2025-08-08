@@ -39,23 +39,51 @@ Eventually, I plan to **automate the process** of fighting back against these ch
 But first, I need to **develop code that can read player positions from the map and minimap.**.
 
 
+If you play this challenge account wild. **ALL KILL** must be documented and if possible recorder. Be ready to do replay buffer. If you dont see the kill or dont recorded. note the date the hours of when you realized it and the current count.
 
+Kill by walling is not changing the kill count so it is ok to be the top 1 of the game.
 
  
 ------------------------------
 
-
 - Fast Start:
   - Battle Ready: First to reach shield max
   - First to catch fish 500 XP
+  - First to catch ammo 500 XP
+  - First to catch chest
+  - Fast Talker  (Talk first to an NPC)
 - Slow Start
   - Land After the storm 750XP
 
 - Barrel 200xp
-- [ ] Survive III
-- [ ] Survive II
-- [ ] Survive I
+- [ ] Survive III 10top
+- [ ] Survive II 25top
+- [ ] Survive I 50top
 
 - Batten The Hatches : Stay in Storm 500 dommage
 - FishMonger : 10 Fishes in a match
 - Better Late than never: Land late after the storm
+- ll: Light a camp fire
+- Ammo Box:100XP
+
+Question:
+- What the number of second you need to drive to have the 2500m bonus  (with and without boost) ?
+  - Without 2:48 (168 Seconds) 
+  - With 2:15 (145 Seconds) 
+- Is breaking ammo and treasure count as open ?
+
+
+Question: 
+- Does Breaking 10 ammo trigger the challenge
+  - With Pickaxe ? No.
+  - With Building break ? No.
+  - With Car ?
+ 
+  - 
+ 
+ Note; Break a building count as Destroying structure
+Note: Destroy Shield with construction dont count for XP
+
+True Pacifist Win without dommaging an opponent
+Pacifist Win without eliminating opponent
+
