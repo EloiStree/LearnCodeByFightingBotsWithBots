@@ -31,7 +31,7 @@ Earn the **maximum XP** possible **before the game ends**, without engaging in c
 
 **Why No Kills?**
 
-My channel is called **"Code Bots to Fight Bots"**. The goal is to get eliminated by a wallhack cheater who sees you as an easy target on their map.
+My channel is called **"Code Bots to Fight Bots"**. The goal is to get eliminated by a wallhack cheater who sees you as an easy target on their wall hack software.
 Once you’re dead, you **spectate** them to determine whether they’re using **aimbot or wallhacks**.
 If they are, **record the footage using OBS Replay Buffer** and **report them**.
 
