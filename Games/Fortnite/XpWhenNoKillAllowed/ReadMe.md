@@ -56,6 +56,9 @@ Kill by walling is not changing the kill count so it is ok to be the top 1 of th
   - Land After the storm 750XP
 
 - Barrel 200xp
+- Camp Fire 200xp
+- Rare Chest 400XP
+- Loot Sac 500xp
 - [ ] Survive III 10top
 - [ ] Survive II 25top
 - [ ] Survive I 50top
@@ -86,4 +89,9 @@ Note: Destroy Shield with construction dont count for XP
 
 True Pacifist Win without dommaging an opponent
 Pacifist Win without eliminating opponent
+
+
+
+Apparently: Fishing player dont cancel True Pacifist and Pacifist as it does not dommage player. ( I need to check if making him fall give elemination and so break the channege.
+<img width="1287" height="860" alt="image" src="https://github.com/user-attachments/assets/31b651bf-8fc4-4e97-8ab0-12c2fad49eae" />
 
