@@ -45,3 +45,4 @@ Info: https://github.com/EloiStree/HelloInput/issues/288
 
 - https://github.com/EloiStree/HelloInput/issues/289
 - Pico W to Warcraft: https://www.youtube.com/@EloiTeaching/search?query=Pico%20%C3%A0%20Warcraft%2C
+- https://github.com/EloiStree/HelloInput/issues/292
