@@ -16,7 +16,9 @@
 # Install ESP32
 
 [<img width="1729" height="773" alt="image" src="https://github.com/user-attachments/assets/945a7424-8325-402e-a300-7bc05ba70c99" />](https://youtu.be/-XuE9P1T2_k)
-- https://youtu.be/-XuE9P1T2_k FR
+- Configurer le ESP32: https://youtu.be/-XuE9P1T2_k FR
+- HC06 To ESP32 : https://youtu.be/di142qIjvZA?t=5
+- Version Tablette https://youtu.be/iotmElvdsKU?t=2334
 - EN
 
 ## Gamepad code
@@ -38,3 +40,8 @@
 
 [<img width="760" height="473" alt="image" src="https://github.com/user-attachments/assets/89273dca-9781-4a62-9499-c36e8a8c3112" />](https://github.com/EloiStree/HelloInput/issues/288)
 Info: https://github.com/EloiStree/HelloInput/issues/288
+
+## Archive
+
+- https://github.com/EloiStree/HelloInput/issues/289
+- Pico W to Warcraft: https://www.youtube.com/@EloiTeaching/search?query=Pico%20%C3%A0%20Warcraft%2C
