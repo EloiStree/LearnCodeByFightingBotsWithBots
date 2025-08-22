@@ -18,5 +18,19 @@
 [<img width="1729" height="773" alt="image" src="https://github.com/user-attachments/assets/945a7424-8325-402e-a300-7bc05ba70c99" />](https://youtu.be/-XuE9P1T2_k)
 - https://youtu.be/-XuE9P1T2_k FR
 - EN
+
+## Gamepad code
+
+- https://github.com/EloiStree/2024_11_21_ESP32HC05RC/blob/main/ESP32HC05RC/ESP32HC05RC.ino
+
+## Keyboard Code, Mouse Code, Gamepad
+
+- To Add
+
+## XInput Code
+
+- https://github.com/EloiStree/2024_11_21_ESP32HC05RC/blob/main/XESP32HC05RC/XESP32HC05RC.ino
+- To Add
+
  
 
