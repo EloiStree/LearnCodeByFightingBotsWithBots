@@ -34,3 +34,7 @@
 
  
 
+## ESP32 + HC05
+
+[<img width="760" height="473" alt="image" src="https://github.com/user-attachments/assets/89273dca-9781-4a62-9499-c36e8a8c3112" />](https://github.com/EloiStree/HelloInput/issues/288)
+Info: https://github.com/EloiStree/HelloInput/issues/288
