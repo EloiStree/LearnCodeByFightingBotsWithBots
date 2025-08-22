@@ -7,10 +7,13 @@
 
 
 [<img width="635" height="346" alt="image" src="https://github.com/user-attachments/assets/fab70838-298e-42cf-a51b-1bf17d68e3fc" />](https://www.amazon.com.be/Integrated-Bluetooth-Module-Wireless-Serial/dp/B0DC48VK77)
-https://www.amazon.com.be/Integrated-Bluetooth-Module-Wireless-Serial/dp/B0DC48VK77
+[https://www.amazon.com.be/Integrated-Bluetooth Module Wireless Serial](https://www.amazon.com.be/Integrated-Bluetooth-Module-Wireless-Serial/dp/B0DC48VK77)
 
 [<img width="760" height="542" alt="image" src="https://github.com/user-attachments/assets/60105265-40c9-43de-b102-301b8849dea4" />](https://www.amazon.com.be/Mirabox-Capture-Nintendo-Youtube-Support/dp/B091YCHYP3)
-https://www.amazon.com.be/Mirabox-Capture-Nintendo-Youtube-Support/dp/B091YCHYP3
+[Mirabox Capture Nintendo Youtube Support](https://www.amazon.com.be/Mirabox-Capture-Nintendo-Youtube-Support/dp/B091YCHYP3)
+
+
+# Install ESP32
 
 [<img width="1729" height="773" alt="image" src="https://github.com/user-attachments/assets/945a7424-8325-402e-a300-7bc05ba70c99" />](https://youtu.be/-XuE9P1T2_k)
 - https://youtu.be/-XuE9P1T2_k FR
